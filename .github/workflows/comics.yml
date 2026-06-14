@@ -1,0 +1,28 @@
+name: Refresh comics
+
+on:
+  workflow_dispatch:            # adds a manual "Run workflow" button
+  schedule:
+    - cron: "0 6 * * 1"         # also runs weekly, Mondays 06:00 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python fetch_comics.py
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Refresh comics"
+          title: "Refresh comics"
+          body: "Automated comic refresh. Review the new comics.js and merge to update the display."
+          branch: refresh-comics
+          delete-branch: true
