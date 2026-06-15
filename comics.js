@@ -1,21 +1,75 @@
 window.COMICS = [
  {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2019/09/pond.png",
+  "title": "Pond | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/pond/"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1781057264-20260612.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/time-7"
+ },
+ {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/tornado_safety_tips.png",
-  "title": "Tornado Safety Tips",
-  "link": "https://xkcd.com/1754"
+  "img": "https://imgs.xkcd.com/comics/1921_fact_checker.png",
+  "title": "1921 Fact Checker",
+  "link": "https://xkcd.com/2129"
  },
  {
   "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2023/05/everything-is-changing.png",
-  "title": "Everything is Changing | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/everything-is-changing/"
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2014/03/snake-in-the-house1.png",
+  "title": "Snake | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/snake/"
  },
  {
   "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2018/09/season.png",
-  "title": "Season | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/season/"
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2014/09/THE-Lamps-of-charity.png",
+  "title": "The Lamps of Charity | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/the-lamps-of-charity/"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/right_click.png",
+  "title": "Right Click",
+  "link": "https://xkcd.com/1975"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/electron_holes.png",
+  "title": "Electron Holes",
+  "link": "https://xkcd.com/2817"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1780969506-20260611.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/huh-2"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2020/04/so-many-ideas.png",
+  "title": "So Many Ideas | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/so-many-ideas/"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1780969351-20260609.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/creative-3"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2021/08/real.png",
+  "title": "Feel Real | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/feel-real/"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2016/05/trouble.png",
+  "title": "Raccoon Trouble | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/raccoon-trouble/"
  },
  {
   "source": "smbc",
@@ -24,28 +78,10 @@ window.COMICS = [
   "link": "https://www.smbc-comics.com/comic/surveil"
  },
  {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1780787940-20260608.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/gold-5"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2016/09/computer-strap.png",
-  "title": "Computer Strap | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/computer-strap/"
- },
- {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png",
-  "title": "Guest Week: Jeph Jacques (Questionable Content)",
-  "link": "https://xkcd.com/822"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/dreams.png",
-  "title": "Dreams",
-  "link": "https://xkcd.com/137"
+  "img": "https://imgs.xkcd.com/comics/hardwood.png",
+  "title": "Hardwood",
+  "link": "https://xkcd.com/3051"
  },
  {
   "source": "smbc",
@@ -54,22 +90,40 @@ window.COMICS = [
   "link": "https://www.smbc-comics.com/comic/proof-6"
  },
  {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/vaccine_tracker.png",
+  "title": "Vaccine Tracker",
+  "link": "https://xkcd.com/2398"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2016/03/just-a-town.png",
+  "title": "Just a Town | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/just-a-town/"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/lying.png",
+  "title": "Lying",
+  "link": "https://xkcd.com/2833"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1780787940-20260608.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/gold-5"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/the_wrong_stuff.png",
+  "title": "The Wrong Stuff",
+  "link": "https://xkcd.com/2865"
+ },
+ {
   "source": "smbc",
   "img": "https://www.smbc-comics.com/comics/1781314254-20260613.png",
   "title": "",
   "link": "https://www.smbc-comics.com/comic/summary-2"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2025/06/neighbors.png",
-  "title": "Neighbors | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/neighbors/"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/marsiforming.png",
-  "title": "Marsiforming",
-  "link": "https://xkcd.com/2095"
  },
  {
   "source": "smbc",
@@ -79,68 +133,14 @@ window.COMICS = [
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/long_light.png",
-  "title": "Long Light",
-  "link": "https://xkcd.com/277"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/scheduling_conflict.png",
-  "title": "Scheduling Conflict",
-  "link": "https://xkcd.com/1542"
+  "img": "https://imgs.xkcd.com/comics/qr_code.png",
+  "title": "QR Code",
+  "link": "https://xkcd.com/1237"
  },
  {
   "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2020/11/CityMonster-SocialShares-Skyline_v2-1024x1024.jpg",
-  "title": "City Monster: A Graphic Novel | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/city-monster-a-graphic-novel/"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2019/09/dont.png",
-  "title": "Don&#8217;t | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/dont-2/"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781057264-20260612.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/time-7"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2024/04/the-thing-i-hate.png",
-  "title": "The Thing I Hate | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/the-thing-i-hate/"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2014/12/grandmas-gift.png",
-  "title": "Grandma&#8217;s Gift | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/grandmas-gift/"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/stephen_hawking.png",
-  "title": "Stephen Hawking",
-  "link": "https://xkcd.com/799"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/fresh_pears.png",
-  "title": "Fresh Pears",
-  "link": "https://xkcd.com/2209"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1780969351-20260609.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/creative-3"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1780969506-20260611.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/huh-2"
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2024/05/phweet-phweet.png",
+  "title": "Phweet Phweet | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/phweet-phweet/"
  }
 ];
