@@ -1,0 +1,44 @@
+name: Add quote
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: "Quote text"
+        required: true
+      author:
+        description: "Author"
+        required: false
+        default: ""
+      icon:
+        description: "Icon: quote, heart, star, book, sun, smile, music, coffee"
+        required: false
+        default: "quote"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python add_quote.py
+        env:
+          QUOTE_TEXT: ${{ inputs.text }}
+          QUOTE_AUTHOR: ${{ inputs.author }}
+          QUOTE_ICON: ${{ inputs.icon }}
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Add quote"
+          title: "Add quote"
+          body: "New quote submitted via the Add quote form. Review and merge to publish it."
+          branch: add-quote
+          delete-branch: true
