@@ -1,0 +1,44 @@
+name: Add poem
+
+on:
+  workflow_dispatch:
+    inputs:
+      text:
+        description: "Poem (separate lines with  /  , blank line with  / / )"
+        required: true
+      title:
+        description: "Title"
+        required: false
+        default: ""
+      author:
+        description: "Poet"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python add_poem.py
+        env:
+          POEM_TEXT: ${{ inputs.text }}
+          POEM_TITLE: ${{ inputs.title }}
+          POEM_AUTHOR: ${{ inputs.author }}
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Add poem"
+          title: "Add poem"
+          body: "New poem submitted via the Add poem form. Review and merge to publish it."
+          branch: add-poem
+          delete-branch: true
