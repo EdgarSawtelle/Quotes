@@ -1,21 +1,27 @@
 window.COMICS = [
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/arachnoneurology.png",
-  "title": "Arachnoneurology",
-  "link": "https://xkcd.com/1135"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781743854-20260619.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/gwas"
+  "img": "https://imgs.xkcd.com/comics/bells_theorem.png",
+  "title": "Bell's Theorem",
+  "link": "https://xkcd.com/1591"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/five_thirty.jpg",
-  "title": "Five Thirty",
-  "link": "https://xkcd.com/68"
+  "img": "https://imgs.xkcd.com/comics/porn_folder.png",
+  "title": "Porn Folder",
+  "link": "https://xkcd.com/981"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/pendulum_types.png",
+  "title": "Pendulum Types",
+  "link": "https://xkcd.com/2924"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/email_settings.png",
+  "title": "Email Settings",
+  "link": "https://xkcd.com/2139"
  },
  {
   "source": "smbc",
@@ -25,15 +31,15 @@ window.COMICS = [
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781226681-comicplaceholder-small.png",
+  "img": "https://www.smbc-comics.com/comics/1781743854-20260619.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/upcoming-book-signings"
+  "link": "https://www.smbc-comics.com/comic/gwas"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/sunrise.jpg",
-  "title": "Sunrise",
-  "link": "https://xkcd.com/92"
+  "img": "https://imgs.xkcd.com/comics/interest_timescales.png",
+  "title": "Interest Timescales",
+  "link": "https://xkcd.com/1778"
  },
  {
   "source": "smbc",
@@ -43,15 +49,21 @@ window.COMICS = [
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/modified_bayes_theorem.png",
-  "title": "Modified Bayes' Theorem",
-  "link": "https://xkcd.com/2059"
+  "img": "https://imgs.xkcd.com/comics/backpack_decisions.png",
+  "title": "Backpack Decisions",
+  "link": "https://xkcd.com/1952"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/skifree.png",
-  "title": "SkiFree",
-  "link": "https://xkcd.com/667"
+  "img": "https://imgs.xkcd.com/comics/rule_34.png",
+  "title": "Rule 34",
+  "link": "https://xkcd.com/305"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1781743897-20260621.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/ginge"
  },
  {
   "source": "smbc",
@@ -60,10 +72,10 @@ window.COMICS = [
   "link": "https://www.smbc-comics.com/comic/sawyer"
  },
  {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/indecision.png",
-  "title": "Indecision",
-  "link": "https://xkcd.com/330"
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/deal"
  },
  {
   "source": "smbc",
@@ -73,26 +85,14 @@ window.COMICS = [
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/anyone_else_here.png",
-  "title": "Anyone Else Here",
-  "link": "https://xkcd.com/3188"
+  "img": "https://imgs.xkcd.com/comics/smart_home_security.png",
+  "title": "Smart Home Security",
+  "link": "https://xkcd.com/1966"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
+  "img": "https://www.smbc-comics.com/comics/1781743829-20260620.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/deal"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/wasted_time.png",
-  "title": "Wasted Time",
-  "link": "https://xkcd.com/1502"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781226968-20260614.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/proof-6"
+  "link": "https://www.smbc-comics.com/comic/ubi"
  }
 ];
