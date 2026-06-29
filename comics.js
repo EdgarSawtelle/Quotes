@@ -1,98 +1,98 @@
 window.COMICS = [
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/arachnoneurology.png",
-  "title": "Arachnoneurology",
-  "link": "https://xkcd.com/1135"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781743854-20260619.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/gwas"
+  "img": "https://imgs.xkcd.com/comics/barrel_whirlpool.jpg",
+  "title": "Barrel - Part 3",
+  "link": "https://xkcd.com/22"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/five_thirty.jpg",
-  "title": "Five Thirty",
-  "link": "https://xkcd.com/68"
+  "img": "https://imgs.xkcd.com/comics/string_theory.png",
+  "title": "String Theory",
+  "link": "https://xkcd.com/171"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781743636-20260618.png",
+  "img": "https://www.smbc-comics.com/comics/1782416890-20260628.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/spooky-3"
+  "link": "https://www.smbc-comics.com/comic/protocol-2"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781226681-comicplaceholder-small.png",
+  "img": "https://www.smbc-comics.com/comics/1782076832-20260622-edit.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/upcoming-book-signings"
+  "link": "https://www.smbc-comics.com/comic/she"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1782416846-20260627.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/mission"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1782416796-20260626%20-%20Copy.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/milgram"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/sunrise.jpg",
-  "title": "Sunrise",
-  "link": "https://xkcd.com/92"
+  "img": "https://imgs.xkcd.com/comics/quantum_mechanics.png",
+  "title": "Quantum Mechanics",
+  "link": "https://xkcd.com/1240"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781314358-20260615.png",
+  "img": "https://www.smbc-comics.com/comics/1781743897-20260621.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/duck-2"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/modified_bayes_theorem.png",
-  "title": "Modified Bayes' Theorem",
-  "link": "https://xkcd.com/2059"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/skifree.png",
-  "title": "SkiFree",
-  "link": "https://xkcd.com/667"
+  "link": "https://www.smbc-comics.com/comic/ginge"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781614380-sawyerlaunchletter.png",
+  "img": "https://www.smbc-comics.com/comics/1782077132-20260623.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/sawyer"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/indecision.png",
-  "title": "Indecision",
-  "link": "https://xkcd.com/330"
+  "link": "https://www.smbc-comics.com/comic/spiraling"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781314410-20260616.png",
+  "img": "https://www.smbc-comics.com/comics/1782175610-20260625.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/bunker"
+  "link": "https://www.smbc-comics.com/comic/agency"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/anyone_else_here.png",
-  "title": "Anyone Else Here",
-  "link": "https://xkcd.com/3188"
+  "img": "https://imgs.xkcd.com/comics/konigsberg.png",
+  "title": "Königsberg",
+  "link": "https://xkcd.com/2694"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
+  "img": "https://www.smbc-comics.com/comics/1782175517-20260624.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/deal"
+  "link": "https://www.smbc-comics.com/comic/comedy-2"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/wasted_time.png",
-  "title": "Wasted Time",
-  "link": "https://xkcd.com/1502"
+  "img": "https://imgs.xkcd.com/comics/log_alignment.png",
+  "title": "Log Alignment",
+  "link": "https://xkcd.com/2884"
  },
  {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1781226968-20260614.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/proof-6"
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/questions.png",
+  "title": "Questions",
+  "link": "https://xkcd.com/1256"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/the_ring.png",
+  "title": "The Ring",
+  "link": "https://xkcd.com/396"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/wrong_superhero.png",
+  "title": "Wrong Superhero",
+  "link": "https://xkcd.com/1012"
  }
 ];
