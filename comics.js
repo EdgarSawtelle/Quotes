@@ -1,45 +1,123 @@
 window.COMICS = [
  {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785374027-20260730.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/crank"
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/deepfakes.png",
+  "title": "Deepfakes",
+  "link": "https://xkcd.com/2650"
  },
  {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785531427-20260801.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/doc"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2016/03/shark.png",
-  "title": "Shark | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/shark/"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785374139-20260731.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/ev-2"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1784999773-20260727.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/taxonomy-2"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1784999731-20260726.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/dance-4"
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/barge.png",
+  "title": "Barge",
+  "link": "https://xkcd.com/1788"
  },
  {
   "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2016/02/anything.png",
-  "title": "Anything | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/anything/"
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2022/09/have_your_back.png",
+  "title": "Have Your Back | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/have-your-back/"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2015/08/issues.png",
+  "title": "Issues | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/issues/"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2011/09/taco-bell.jpg",
+  "title": "Taco Bell | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/taco-bell/"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/hatchery.png",
+  "title": "Hatchery",
+  "link": "https://xkcd.com/2958"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788389708-20260904.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/money"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2019/10/to-be-amazing.png",
+  "title": "To Be Amazing | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/to-be-amazing/"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/mail.png",
+  "title": "Mail",
+  "link": "https://xkcd.com/96"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788113889-20260831.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/royal"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2012/07/weird-face-cat.jpg",
+  "title": "Cat | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/cat/"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788222026-20260901.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/philosophy-6"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2015/09/you-must.png",
+  "title": "You Must | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/you-must/"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788050865-20260830.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/secret"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/settling.png",
+  "title": "Settling",
+  "link": "https://xkcd.com/1768"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788389671-20260903.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/meaning-9"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1788659223-20260906.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/seized"
+ },
+ {
+  "source": "poorlydrawnlines",
+  "img": "https://poorlydrawnlines.com/wp-content/uploads/2019/09/dont.png",
+  "title": "Don&#8217;t | Poorly Drawn Lines",
+  "link": "https://poorlydrawnlines.com/comic/dont-2/"
+ },
+ {
+  "source": "smbc",
+  "img": "https://www.smbc-comics.com/comics/1787948076-20260829.png",
+  "title": "",
+  "link": "https://www.smbc-comics.com/comic/echo"
+ },
+ {
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/jeremy_irons.jpg",
+  "title": "Jeremy Irons",
+  "link": "https://xkcd.com/93"
  },
  {
   "source": "poorlydrawnlines",
@@ -48,93 +126,21 @@ window.COMICS = [
   "link": "https://poorlydrawnlines.com/comic/lost-touch/"
  },
  {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785184202-20260729.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/hashtag"
+  "source": "xkcd",
+  "img": "https://imgs.xkcd.com/comics/world_according_to_americans.png",
+  "title": "World According to Americans",
+  "link": "https://xkcd.com/850"
  },
  {
   "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/reinvent_the_wheel.png",
-  "title": "Reinvent the Wheel",
-  "link": "https://xkcd.com/2140"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2013/06/animal-clothes-1.png",
-  "title": "Animal Clothes | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/animal-clothes/"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/physics_suppression.png",
-  "title": "Physics Suppression",
-  "link": "https://xkcd.com/2113"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/alien_theories.png",
-  "title": "Alien Theories",
-  "link": "https://xkcd.com/2953"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/industry_nicknames.png",
-  "title": "Industry Nicknames",
-  "link": "https://xkcd.com/2130"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2025/09/trying-to-read.png",
-  "title": "Trying to Read | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/trying-to-read/"
+  "img": "https://imgs.xkcd.com/comics/meltdown_and_spectre.png",
+  "title": "Meltdown and Spectre",
+  "link": "https://xkcd.com/1938"
  },
  {
   "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785184164-20260728.png",
+  "img": "https://www.smbc-comics.com/comics/1788486090-20260905.png",
   "title": "",
-  "link": "https://www.smbc-comics.com/comic/codebase"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2015/08/work.png",
-  "title": "Work | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/work/"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/pirate_bay.png",
-  "title": "Pirate Bay",
-  "link": "https://xkcd.com/553"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/gyroscopes.png",
-  "title": "Gyroscopes",
-  "link": "https://xkcd.com/332"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2015/08/morning.png",
-  "title": "Morning | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/morning/"
- },
- {
-  "source": "xkcd",
-  "img": "https://imgs.xkcd.com/comics/shadowfacts.png",
-  "title": "Shadowfacts",
-  "link": "https://xkcd.com/1272"
- },
- {
-  "source": "smbc",
-  "img": "https://www.smbc-comics.com/comics/1785531473-20260802.png",
-  "title": "",
-  "link": "https://www.smbc-comics.com/comic/prompt-2"
- },
- {
-  "source": "poorlydrawnlines",
-  "img": "https://poorlydrawnlines.com/wp-content/uploads/2021/01/youll_never_know.png",
-  "title": "You&#8217;ll Never Know | Poorly Drawn Lines",
-  "link": "https://poorlydrawnlines.com/comic/youll-never-know/"
+  "link": "https://www.smbc-comics.com/comic/imagine-2"
  }
 ];
